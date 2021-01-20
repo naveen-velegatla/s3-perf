@@ -1,0 +1,6 @@
+{
+    "access_key": "S412VV6WVZCQ9GGXBEMV",
+    "secret_key": "NYek1HtV61DXGzLSKHTfyOG9w09JCvjBLhNWBvML",
+    "endpoint_url": "http://127.0.0.1:9000",
+    "bucket_name": "testbucket"
+}
