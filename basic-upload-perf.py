@@ -6,6 +6,7 @@ import os
 
 def launch_upload(no_of_obj):
     with open("sample_file.txt", "w") as f:
+        f.seek((1024 * 1024) - 1)
         f.write("This is sample file")
     file_size = os.path.getsize("sample_file.txt")
 
